@@ -44,3 +44,6 @@ The data was sourced from an internal database or publicly available HR datasets
 
 
 The project solved the urgent business need for a granular understanding of workforce instability, which was previously a hidden cost. By uncovering that **63%** of attrition is concentrated in just two education fields (Life Sciences and Medical) and that this turnover is strongly correlated with low salary (up to $5K, **23% below average**) and minimum job satisfaction (score of 1), the dashboard provides a clear mandate for action. Specifically, it empowers leadership to implement targeted salary reviews for low-paid, high-attrition roles and to focus immediate retention efforts on employees between the ages of 26-35 who have completed only one year of service.
+
+**Walthrough Of The Dashboard**
+Video Link - https://share.zight.com/xQu8W0BL
